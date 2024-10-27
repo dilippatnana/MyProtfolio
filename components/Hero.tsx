@@ -11,7 +11,7 @@ const heroSection = () => {
           {/* <h2 className=' uppercase tracking-widest text-xs text-center text-blue-100 max-w-80 '>
             Dynamic Web Magic With Next.js
           </h2> */}
-          <TextGenerateEffect className="py-7 text-center text-[40px] md:text-5xl lg:text-6xl " words="Tansforming Ideas into Seamless User Experience." />
+          <TextGenerateEffect className="py-7 text-center text-[40px] md:text-5xl lg:text-6xl " words="Tansforming Ideas Into Reality." />
 
           <p className=" text-center md:trackint-wider mb-4 text-sm lg:text-2xl">
             Hi, I am Dilip Patnana.
